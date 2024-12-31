@@ -1,9 +1,5 @@
-
-#number{
-    height: 200px;
-    width: 200px; 
-    background-color: aqua;
-    
-    border-color: blue;
-
+.flex_main_container {
+    display: flex;              /* Enable Flexbox */
+    justify-content: center;    /* Center horizontally */
+    align-items: center;        /* Center vertically */
 }
